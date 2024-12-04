@@ -26,12 +26,7 @@ Modify the style.css file to apply your custom styles.
 Use the Google Fonts link to add more typography options if desired.
 
 File Structure
-stylish-webpage-template/
-├── index.html       # Main HTML file
-├── style.css        # CSS styles
-├── images/          # Image assets used in the project
-│   ├── sandwich.jpg
-│   ├── steak.jpg
-│   ├── house5.jpg
+![Alt text](structure.jpg?raw=true "Title")
+
 
 
