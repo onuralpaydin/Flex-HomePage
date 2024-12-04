@@ -50,27 +50,27 @@ Content Boxes: Highlights images and descriptive text.
 Media Integration: Displays images for food items and houses.
 Custom Fonts: Utilizes Google Fonts for enhanced typography.
 Responsive Design: Optimized for different screen sizes.
+
 Installation
 Clone this repository:
-bash
-Kodu kopyala
+
 git clone https://github.com/your-username/stylish-webpage-template.git
 Navigate to the project directory:
-bash
-Kodu kopyala
+
 cd stylish-webpage-template
 Open the index.html file in your browser:
-bash
-Kodu kopyala
+
+
 open index.html
+
 Usage
 Customize the HTML structure as needed for your project.
 Replace placeholder images in the images/ folder with your own.
 Modify the style.css file to apply your custom styles.
 Use the Google Fonts link to add more typography options if desired.
+
 File Structure
-bash
-Kodu kopyala
+
 stylish-webpage-template/
 ├── index.html       # Main HTML file
 ├── style.css        # CSS styles
